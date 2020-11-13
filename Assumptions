@@ -1,0 +1,9 @@
+The following assumptions are being taken while developing the application:
+
+1. The registration number of all car will be of same length and will be of form 'PB-01-HH-1234'.
+2. All cars will have distinct unique registration number.
+3. For all the cases, like giving 2 commands for creating parking lot, parking car when lot is full
+   will have custom message output.
+4. The commands format are never wrong, they are expected as shown in the example input file, anything else will
+   give raise to wrong command output.
+5. Driver age will always be a valid integer.
